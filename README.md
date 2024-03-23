@@ -10,7 +10,6 @@ I am a high school graduate with profound interest in technology and a dedicatio
 
 My journey in computer science has led me to develop a passion for cybersecurity,and i am now eager to transition into this field, specifically aiming to join Security operations center (soc) as tier 1 Analyst.
 
-## skills 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
